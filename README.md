@@ -54,8 +54,6 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
 
 </div>
 
-## Mis proyectos 💻
-
 ## ¿Donde adquirí mis conocimientos? 🙌
 <p>Durante mi formación como Full Stack Web Developer en el Bootcamp de Henry, he tenido la oportunidad de adquirir conocimientos y experiencia en diversas tecnologías, así como también de trabajar en proyectos prácticos y en equipo.</p>
 
