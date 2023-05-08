@@ -48,6 +48,9 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img height="45px" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI">
+  <img height="45px" width="45px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhat-heck-jwt-oauth20-crystalizemylearning-july2022-lye-jia-jun%3Ftrk%3Dpulse-article_more-articles_related-content-card&psig=AOvVaw37bINofzu7lQKjy3pR1UHe&ust=1683672868452000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi8n6zo5v4CFQAAAAAdAAAAABAE" alt="JWT">
+  <img height="45px" width="45px" src="https://images.ctfassets.net/vwq10xzbe6iz/tnwT7PN9aBmT7vgkTtGhV/940f001eb249a42904cd40e64d13c7e9/passportJS-300x300.png" alt="Passport">
+  
 
 </div>
 
