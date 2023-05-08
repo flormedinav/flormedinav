@@ -35,7 +35,7 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
 </ul>
 
 <p style="margin-top: 10px;">Incluyendo HTML y CSS</p>
-<p style="margin-top: 10px;">Entre otras herramientas, cuento con conocimiento en Photoshop y Corel Draw</p>
+<p style="margin-top: 10px;">Cuenta también con conocimiento en Photoshop y Corel Draw</p>
 
 <div style="display: inline-block">
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
