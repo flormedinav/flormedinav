@@ -12,7 +12,6 @@
 Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y oportunidades para crecer profesionalmente, aprender nuevas tecnologías y mejorar mis habilidades. Me gusta trabajar en equipo y mi objetivo es seguir desarrollando mi carrera en el campo del desarrollo web. </p>
 
 <br>
-<br>
 
 ## Tecnologías:
 <p>Las principales tecnologías que manejo son:</p>
@@ -48,16 +47,13 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
 </div>
 
 <br>
-<br>
 
 ## Mis proyectos 👀
 
 <br>
-<br>
 
 ## ¿Donde adquirí mis conocimientos?🤔
-<p>
-En la carrera Full Stack Web Developer del bootcamp SoyHenry y de la Tecnicatura Universitaria en Programación que actualmente estoy cursando en la Universidad Tecnológica Nacional. </p>
+<p>Durante mi formación como Full Stack Web Developer en el Bootcamp de Henry, he tenido la oportunidad de adquirir conocimientos y experiencia en diversas tecnologías, así como también de trabajar en proyectos prácticos y en equipo.</p>
 
 <br>
 <br>
