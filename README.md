@@ -56,10 +56,10 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
 <p>Durante mi formación como Full Stack Web Developer en el Bootcamp de Henry, he tenido la oportunidad de adquirir conocimientos y experiencia en diversas tecnologías, así como también de trabajar en proyectos prácticos y en equipo.</p>
 
 <br>
-<br>
 
 ## Contacto:
 <div>
   <a href="mailto:flormedinav7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/flormedinav/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>   
+  <a href="https://www.linkedin.com/in/flormedinav/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+  <a href="tel:+5493815520601"><img src="https://img.shields.io/badge/Call-Me-brightgreen.svg?style=for-the-badge&logoColor=white"/></a>
 </div>
