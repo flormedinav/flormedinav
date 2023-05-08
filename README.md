@@ -5,13 +5,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flormedinav&layout=compact&langs_count=16&theme=dark">
 </div>
 
-<br>
-
 ## ¿Quién soy? 🤔
 <p>
 Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y oportunidades para crecer profesionalmente, aprender nuevas tecnologías y mejorar mis habilidades. Me gusta trabajar en equipo y mi objetivo es seguir desarrollando mi carrera en el campo del desarrollo web. </p>
 
-<br>
+- 🌱 Actualmente estoy aprendiendo TanStack Query**
+
+- 💬 Pregúntame sobre **JavaScript, Node.js y Express.js**
+
+- 📫 Puedes contactarme en **flormedinav7@gmail.com**
+
+- ⚡ Dato curioso **siempre estoy dispuesta a aprender cosas nuevas y ayudar a quien lo necesite.**
 
 ## Tecnologías:
 <p>Las principales tecnologías que manejo son:</p>
@@ -46,16 +50,10 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
 
-<br>
-
 ## Mis proyectos 💻
-
-<br>
 
 ## ¿Donde adquirí mis conocimientos? 🙌
 <p>Durante mi formación como Full Stack Web Developer en el Bootcamp de Henry, he tenido la oportunidad de adquirir conocimientos y experiencia en diversas tecnologías, así como también de trabajar en proyectos prácticos y en equipo.</p>
-
-<br>
 
 ## Contacto:
 <div>
