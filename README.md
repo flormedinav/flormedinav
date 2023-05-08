@@ -9,12 +9,28 @@
 
 ## ¿Quién soy?🤔
 <p>
-Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y oportunidades para crecer profesionalmente, aprender nuevas tecnologías y mejorar mis habilidades. Me gusta trabajar en equipo y mi objetivo es seguir desarrollando mi carrera en el campo del desarrollo web. </p>
+Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y oportunidades para crecer profesionalmente, aprender nuevas tecnologías y mejorar mis habilidades. Me gusta trabajar en equipo y mi objetivo es seguir desarrollando mi carrera en el campo del desarrollo web. </p>
 
 <br>
 <br>
 
 ## Tecnologías:
+<p>Las principales tecnologías que manejo son:</p>
+<ul>
+  <li>Javascript</li>
+  <li>React.js</li>
+  <li>TanStack Query</li>
+  <li>Redux</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>JWT</li>
+  <li>Passport</li>
+  <li>PostgreSQL</li>
+  <li>Sequelize</li>
+  <li>GIT</li>
+  <li>Material UI</li>
+</ul>
+
 <div style="display: inline-block">
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -26,7 +42,6 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  
 </div>
 
 <br>
