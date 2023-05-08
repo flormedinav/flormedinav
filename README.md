@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer 👨‍💻</h3>
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flormedinavs&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flormedinav&layout=compact&langs_count=16&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flormedinav&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 
 <br>
@@ -26,6 +26,7 @@ Soy un Desarrollador Web Full Stack que esta en búsqueda de nuevos desafíos y 
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  
 </div>
 
 <br>
