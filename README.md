@@ -9,7 +9,7 @@
 <p>
 Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y oportunidades para crecer profesionalmente, aprender nuevas tecnologías y mejorar mis habilidades. Me gusta trabajar en equipo y mi objetivo es seguir desarrollando mi carrera en el campo del desarrollo web. </p>
 
-- 🌱 Actualmente estoy aprendiendo **TanStack Query**.
+- 🌱 Actualmente estoy aprendiendo **React Native**.
 
 - 💬 Pregúntame sobre **JavaScript, Node.js y Express.js**.
 
@@ -22,6 +22,7 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
 <ul>
   <li>Javascript</li>
   <li>React.js</li>
+  <li>Typescript</li>
   <li>TanStack Query</li>
   <li>Redux</li>
   <li>Node.js</li>
@@ -32,6 +33,7 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
   <li>Sequelize</li>
   <li>GIT</li>
   <li>Material UI</li>
+  
 </ul>
 
 <p style="margin-top: 10px;">Incluyendo HTML y CSS.</p>
