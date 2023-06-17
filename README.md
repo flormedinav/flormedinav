@@ -20,9 +20,11 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
 ## Tecnologías:
 <p>Las principales tecnologías que manejo son:</p>
 <ul>
+  <li>HTML</li>
+  <li>CSS</li>
   <li>Javascript</li>
-  <li>React.js</li>
   <li>Typescript</li>
+  <li>React.js</li>
   <li>TanStack Query</li>
   <li>Redux</li>
   <li>Node.js</li>
@@ -36,7 +38,6 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
   
 </ul>
 
-<p style="margin-top: 10px;">Incluyendo HTML y CSS.</p>
 <p style="margin-top: 10px;">Cuenta también con conocimiento en Photoshop y Corel Draw.</p>
 
 <div style="display: inline-block">
