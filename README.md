@@ -21,7 +21,6 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>Typescript</li>
   <li>React.js</li>
   <li>TanStack Query</li>
   <li>Redux</li>
