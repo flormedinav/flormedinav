@@ -9,8 +9,6 @@
 <p>
 Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y oportunidades para crecer profesionalmente, aprender nuevas tecnologías y mejorar mis habilidades. Me gusta trabajar en equipo y mi objetivo es seguir desarrollando mi carrera en el campo del desarrollo web. </p>
 
-- 🌱 Actualmente estoy aprendiendo **React Native**.
-
 - 💬 Pregúntame sobre **JavaScript, Node.js y Express.js**.
 
 - 📫 Puedes contactarme en **flormedinav7@gmail.com**
@@ -25,7 +23,6 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
   <li>Javascript</li>
   <li>Typescript</li>
   <li>React.js</li>
-  <li>React Native</li>
   <li>TanStack Query</li>
   <li>Redux</li>
   <li>Material UI</li>
@@ -45,9 +42,9 @@ Soy Desarrolladora Web Full Stack que esta en búsqueda de nuevos desafíos y op
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="45px" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+  <!--<img height="45px" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />-->
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img height="45px" width="45px" src="https://www.onu.ro/wp/wp-content/uploads/2020/03/react-native-logo-884x1024.png" />
+  <!--<img height="45px" width="45px" src="https://www.onu.ro/wp/wp-content/uploads/2020/03/react-native-logo-884x1024.png" />-->
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img height="45px" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI">
   <img height="45px" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="Bootstrap">
